@@ -11,13 +11,13 @@ W. Avy is looking for information to make an informed decision about opening a s
 ### June Temperatures
 Results for the month of June:
 
-INSERT june_summary image
+![june summary](https://github.com/ckbauman/surfs_up/blob/main/june_summary.png)
 
 
 ### December Temperatures
 Results for the month of December:
 
-INSERT dec_summary image
+![dec summary](https://github.com/ckbauman/surfs_up/blob/main/dec_summary.png)
 
 Three differences between June and December are:
 - The avg. temp between June and December is very similar at 75 (june) and 71 (dec)
